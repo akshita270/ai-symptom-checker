@@ -9,10 +9,11 @@ An intelligent symptom checker that predicts potential diseases based on user sy
 - Interactive **web UI** for user-friendly input  
 - Model persistence using `joblib`  
 
-## 🛠️ Tech Stack  
-- **Python, Flask, Scikit-Learn, NLTK**  
-- **HTML, CSS, JavaScript**  
-- **Joblib** (for saving the model)  
+💡 Technology Stack:
+Machine Learning: Scikit-learn, TF-IDF
+Web Framework: Flask
+NLP: NLTK, Tokenization, Stopwords Removal
+Deployment: Joblib for model and vectorizer serialization  
 
 ## 📂 Installation  
 Clone the repository:  
